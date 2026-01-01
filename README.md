@@ -1,6 +1,6 @@
 # Hi there, I'm Gitau 👋
 
-📊 Currently a Data & AI Consultant at PwC UK, specialising in BI  
+📊 Currently a Data & AI Consultant at PwC UK 
 🔎 Looking to branch out more into Data Science, DevOps and development work  
 🎓 Higher Education: BSc Chemical Engineering, MSc Engineering Management
 

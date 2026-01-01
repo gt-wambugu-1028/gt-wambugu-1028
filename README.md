@@ -1,7 +1,7 @@
 # Hi, I’m Gitau 👋
 
 🔎 Exploring opportunities to deepen my experience in Data Science, DevOps, and software development  
-📊 Data & AI Consultant at PwC UK, specialising in Business Intelligence and Data Analytics  
+🔧 Data & AI Consultant at PwC UK, specialising in Business Intelligence and Data Analytics  
 🎓 BSc Chemical Engineering | MSc Engineering Management  
 
 ---

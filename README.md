@@ -1,7 +1,7 @@
 # Hi there, I'm Gitau 👋
 
-📊 Currently a Data & AI Consultant at PwC UK, specialising in Business Intelligence <br/>
-🔎 Looking to branch out more into Data Science, DevOps and dev work<br/>
+📊 Currently a Data & AI Consultant at PwC UK, specialising in Business Intelligence  
+🔎 Looking to branch out more into Data Science, DevOps and development work  
 🎓 Higher Education: BSc Chemical Engineering, MSc Engineering Management
 
 ## 🌐 Socials:
@@ -12,7 +12,6 @@
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats-alpha-nine-15.vercel.app/api?username=gt-wambugu-1028&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=gt-wambugu-1028&theme=highcontrast&hide_border=false)<br/>
 ![](https://github-readme-stats-alpha-nine-15.vercel.app/api/top-langs/?username=gt-wambugu-1028&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---

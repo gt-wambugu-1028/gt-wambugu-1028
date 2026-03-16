@@ -20,7 +20,3 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
-
-## 📊 GitHub Activity
-![GitHub Stats](https://github-readme-stats-alpha-nine-15.vercel.app/api?username=gt-wambugu-1028&theme=highcontrast&hide_border=false&include_all_commits=true)  
-![Top Languages](https://github-readme-stats-alpha-nine-15.vercel.app/api/top-langs/?username=gt-wambugu-1028&theme=highcontrast&layout=compact)
